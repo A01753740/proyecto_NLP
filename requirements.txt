@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-chroma
+pandas
+matplotlib
+openai
+flask
+wordcloud
+python-dotenv
+Faiss_cpu
+chromadb
